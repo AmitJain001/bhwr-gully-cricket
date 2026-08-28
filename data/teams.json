@@ -1,5 +1,5 @@
 [
  {"id":"MEN01","name":"Bala Ganapathi","gender":"Men","group":"A"},{"id":"MEN02","name":"Chaturanana","gender":"Men","group":"A","captain":"Madhu Reddy"},{"id":"MEN03","name":"Gajanana","gender":"Men","group":"A"},{"id":"MEN04","name":"Lambodara","gender":"Men","group":"A"},{"id":"MEN05","name":"Shripati","gender":"Men","group":"A"},
  {"id":"MEN06","name":"Bheemas","gender":"Men","group":"B","captain":"Satya Balasu"},{"id":"MEN07","name":"Ekadanta","gender":"Men","group":"B","captain":"Rajesh"},{"id":"MEN08","name":"Kapila","gender":"Men","group":"B"},{"id":"MEN09","name":"Mouriyas","gender":"Men","group":"B","captain":"Gurudatta Dronamaraju"},{"id":"MEN10","name":"Vinayaka","gender":"Men","group":"B"},
- {"id":"WOM01","name":"Sidhdhivinayaka","gender":"Women","group":"N/A"},{"id":"WOM02","name":"Vakratunda","gender":"Women","group":"N/A"},{"id":"WOM03","name":"Vighneshwara","gender":"Women","group":"N/A"}
+ {"id":"WOM01","name":"Sidhdhivinayaka","gender":"Women","group":"N/A","captain":"Vijaya"},{"id":"WOM02","name":"Vakratunda","gender":"Women","group":"N/A","captain":"Divya"},{"id":"WOM03","name":"Vighneshwara","gender":"Women","group":"N/A"}
 ]
