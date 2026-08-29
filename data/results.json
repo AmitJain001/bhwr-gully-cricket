@@ -18,11 +18,11 @@
                 "team2NrrOvers":  4.1666666667
             },
     "M03":  {
-                "status":  "Scheduled",
+                "status":  "Postponed",
                 "team1Score":  null,
                 "team2Score":  null,
                 "winner":  null,
-                "resultText":  null
+                "resultText":  "Postponed — revised date and time to be announced."
             },
     "M04":  {
                 "status":  "Scheduled",
@@ -64,11 +64,15 @@
                 "resultText":  null
             },
     "M09":  {
-                "status":  "Postponed",
-                "team1Score":  null,
-                "team2Score":  null,
-                "winner":  null,
-                "resultText":  "Postponed — revised date and time to be announced."
+                "status":  "Completed",
+                "team1Score":  "14 (3 overs)",
+                "team2Score":  "13 all out (6 overs)",
+                "winner":  "Ekadanta",
+                "resultText":  "Vinayaka won the toss and chose to bat. Ekadanta completed the chase in 3 overs.",
+                "team1Runs":  14,
+                "team1NrrOvers":  3,
+                "team2Runs":  13,
+                "team2NrrOvers":  6
             },
     "M10":  {
                 "status":  "Completed",
