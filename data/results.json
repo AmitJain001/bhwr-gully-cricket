@@ -142,11 +142,15 @@
                 "resultText":  null
             },
     "M19":  {
-                "status":  "Scheduled",
-                "team1Score":  null,
-                "team2Score":  null,
-                "winner":  null,
-                "resultText":  null
+                "status":  "Completed",
+                "team1Score":  "20 all out (6 overs)",
+                "team2Score":  "21 (3.4 overs)",
+                "winner":  "Gajanana",
+                "resultText":  "Gajanana won the toss and chose to bowl. Gajanana completed the chase in 3.4 overs.",
+                "team1Runs":  20,
+                "team1NrrOvers":  6,
+                "team2Runs":  21,
+                "team2NrrOvers":  3.6666666667
             },
     "M20":  {
                 "status":  "Cancelled",
