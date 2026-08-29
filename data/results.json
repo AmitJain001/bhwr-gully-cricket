@@ -1,3 +1,199 @@
 {
-  "M01":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"M02":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"M03":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"M04":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"M05":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"M06":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"M07":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"M08":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"M09":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"M10":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"M11":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"M12":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"M13":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"M14":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"M15":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"M16":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"M17":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"M18":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"M19":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"M20":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"M21":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"M22":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"M23":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"K01":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"K02":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"K03":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null},"K04":{"status":"Scheduled","team1Score":null,"team2Score":null,"winner":null,"resultText":null}
+    "M01":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "M02":  {
+                "status":  "Completed",
+                "team1Score":  "20 all out (6 overs)",
+                "team2Score":  "22 (4.1 overs)",
+                "winner":  "Ekadanta",
+                "resultText":  "Ekadanta won the toss and chose to bowl. Ekadanta completed the chase in 4.1 overs.",
+                "team1Runs":  20,
+                "team1NrrOvers":  6,
+                "team2Runs":  22,
+                "team2NrrOvers":  4.1666666667
+            },
+    "M03":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "M04":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "M05":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "M06":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "M07":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "M08":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "M09":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "M10":  {
+                "status":  "Completed",
+                "team1Score":  "29 (6 overs)",
+                "team2Score":  "15 all out (4.2 overs)",
+                "winner":  "Bala Ganapathi",
+                "resultText":  "Lambodara won the toss and chose to bowl. Bala Ganapathi won by 14 runs.",
+                "team1Runs":  29,
+                "team1NrrOvers":  6,
+                "team2Runs":  15,
+                "team2NrrOvers":  6
+            },
+    "M11":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "M12":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "M13":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "M14":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "M15":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "M16":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "M17":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "M18":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "M19":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "M20":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "M21":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "M22":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "M23":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "K01":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "K02":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "K03":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            },
+    "K04":  {
+                "status":  "Scheduled",
+                "team1Score":  null,
+                "team2Score":  null,
+                "winner":  null,
+                "resultText":  null
+            }
 }
