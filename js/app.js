@@ -1,6 +1,6 @@
 const [teams, roster, rawMatches, rules, results] = await Promise.all(['teams','players','matches','rules','results'].map(name => fetch(`data/${name}.json`).then(r => r.json())));
 const matches = rawMatches.map(([id,date,day,time,venue,gender,stage,group,team1,team2,umpire1,umpire2,scorer]) => ({id,date,day,time,venue,gender,stage,group,team1,team2,umpire1:umpire1||'To be assigned',umpire2:umpire2||'To be assigned',scorer:scorer||'To be assigned',status:'Scheduled',team1Score:null,team2Score:null,winner:null,resultText:null,...results[id]}));
-const startTime = match => Date.parse(`${match.date}, 2026 ${match.time.split(' - ')[0]}`);
+const startTime = match => {const timestamp=Date.parse(`${match.date}, 2026 ${match.time.split(' - ')[0]}`);return Number.isNaN(timestamp)?Number.POSITIVE_INFINITY:timestamp;};
 matches.sort((a,b) => startTime(a) - startTime(b));
 const playerMap = Object.fromEntries(roster.map(row => [row.team,row.players]));
 const app = document.querySelector('#app');
