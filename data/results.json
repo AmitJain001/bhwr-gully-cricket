@@ -57,11 +57,15 @@
                 "resultText":  "Cancelled following Shripati's withdrawal from the tournament."
             },
     "M08":  {
-                "status":  "Scheduled",
-                "team1Score":  null,
-                "team2Score":  null,
-                "winner":  null,
-                "resultText":  null
+                "status":  "Completed",
+                "team1Score":  "29 (7 overs)",
+                "team2Score":  "31 (6.2 overs)",
+                "winner":  "Vakratunda",
+                "resultText":  "Vakratunda completed the chase in 6.2 overs.",
+                "team1Runs":  29,
+                "team1NrrOvers":  7,
+                "team2Runs":  31,
+                "team2NrrOvers":  6.3333333333
             },
     "M09":  {
                 "status":  "Completed",
