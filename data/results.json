@@ -118,11 +118,11 @@
                 "resultText":  "Postponed — revised date and time to be announced."
             },
     "M15":  {
-                "status":  "Postponed",
+                "status":  "Scheduled",
                 "team1Score":  null,
                 "team2Score":  null,
                 "winner":  null,
-                "resultText":  "Postponed — revised date and time to be announced."
+                "resultText":  null
             },
     "M16":  {
                 "status":  "Cancelled",
