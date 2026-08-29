@@ -90,11 +90,11 @@
                 "team2NrrOvers":  6
             },
     "M11":  {
-                "status":  "Postponed",
+                "status":  "Scheduled",
                 "team1Score":  null,
                 "team2Score":  null,
                 "winner":  null,
-                "resultText":  "Postponed — revised date and time to be announced."
+                "resultText":  null
             },
     "M12":  {
                 "status":  "Cancelled",
