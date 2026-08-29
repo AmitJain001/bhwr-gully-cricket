@@ -32,25 +32,29 @@
                 "resultText":  null
             },
     "M05":  {
-                "status":  "Scheduled",
-                "team1Score":  null,
-                "team2Score":  null,
-                "winner":  null,
-                "resultText":  null
+                "status":  "Completed",
+                "team1Score":  "19 (4.4 overs)",
+                "team2Score":  "18 all out (6 overs)",
+                "winner":  "Bala Ganapathi",
+                "resultText":  "Bala Ganapathi won the toss and chose to bowl. Bala Ganapathi completed the chase in 4.4 overs.",
+                "team1Runs":  19,
+                "team1NrrOvers":  4.6666666667,
+                "team2Runs":  18,
+                "team2NrrOvers":  6
             },
     "M06":  {
-                "status":  "Scheduled",
-                "team1Score":  null,
-                "team2Score":  null,
-                "winner":  null,
-                "resultText":  null
+                "status":  "Forfeited",
+                "team1Score":  "Awarded win",
+                "team2Score":  "Did not show up",
+                "winner":  "Bheemas",
+                "resultText":  "Kapila did not show up. Bheemas was awarded 2 points; NRR is unchanged."
             },
     "M07":  {
-                "status":  "Scheduled",
+                "status":  "Cancelled",
                 "team1Score":  null,
                 "team2Score":  null,
                 "winner":  null,
-                "resultText":  null
+                "resultText":  "Cancelled following Shripati's withdrawal from the tournament."
             },
     "M08":  {
                 "status":  "Scheduled",
@@ -85,11 +89,11 @@
                 "resultText":  null
             },
     "M12":  {
-                "status":  "Scheduled",
+                "status":  "Cancelled",
                 "team1Score":  null,
                 "team2Score":  null,
                 "winner":  null,
-                "resultText":  null
+                "resultText":  "Cancelled following Shripati's withdrawal from the tournament."
             },
     "M13":  {
                 "status":  "Scheduled",
@@ -113,11 +117,11 @@
                 "resultText":  null
             },
     "M16":  {
-                "status":  "Scheduled",
+                "status":  "Cancelled",
                 "team1Score":  null,
                 "team2Score":  null,
                 "winner":  null,
-                "resultText":  null
+                "resultText":  "Cancelled following Shripati's withdrawal from the tournament."
             },
     "M17":  {
                 "status":  "Scheduled",
@@ -141,11 +145,11 @@
                 "resultText":  null
             },
     "M20":  {
-                "status":  "Scheduled",
+                "status":  "Cancelled",
                 "team1Score":  null,
                 "team2Score":  null,
                 "winner":  null,
-                "resultText":  null
+                "resultText":  "Cancelled following Shripati's withdrawal from the tournament."
             },
     "M21":  {
                 "status":  "Scheduled",
