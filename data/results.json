@@ -202,11 +202,11 @@
                 "resultText":  null
             },
     "M23":  {
-                "status":  "Scheduled",
+                "status":  "Cancelled",
                 "team1Score":  null,
                 "team2Score":  null,
                 "winner":  null,
-                "resultText":  null
+                "resultText":  "Cancelled — Vakratunda and Vighneshwara have qualified for the women's final. No points or NRR awarded."
             },
     "K01":  {
                 "status":  "Scheduled",
@@ -223,11 +223,11 @@
                 "resultText":  null
             },
     "K03":  {
-                "status":  "Scheduled",
+                "status":  "Postponed",
                 "team1Score":  null,
                 "team2Score":  null,
                 "winner":  null,
-                "resultText":  null
+                "resultText":  "Women's final — date and time to be finalized."
             },
     "K04":  {
                 "status":  "Scheduled",
