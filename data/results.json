@@ -151,11 +151,15 @@
                 "team2NrrOvers":  6
             },
     "M18":  {
-                "status":  "Scheduled",
-                "team1Score":  null,
-                "team2Score":  null,
-                "winner":  null,
-                "resultText":  null
+                "status":  "Completed",
+                "team1Score":  "31 (6 overs)",
+                "team2Score":  "30 (6 overs)",
+                "winner":  "Ekadanta",
+                "resultText":  "Ekadanta won the toss and chose to bowl. Ekadanta completed the chase in 6 overs.",
+                "team1Runs":  31,
+                "team1NrrOvers":  6,
+                "team2Runs":  30,
+                "team2NrrOvers":  6
             },
     "M19":  {
                 "status":  "Completed",
