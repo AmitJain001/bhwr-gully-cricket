@@ -140,11 +140,15 @@
                 "resultText":  "Cancelled following Shripati's withdrawal from the tournament."
             },
     "M17":  {
-                "status":  "Scheduled",
-                "team1Score":  null,
-                "team2Score":  null,
-                "winner":  null,
-                "resultText":  null
+                "status":  "Completed",
+                "team1Score":  "25 (4.4 overs)",
+                "team2Score":  "24 (6 overs)",
+                "winner":  "Bheemas",
+                "resultText":  "Bheemas won the toss and chose to bowl. Bheemas completed the chase in 4.4 overs.",
+                "team1Runs":  25,
+                "team1NrrOvers":  4.6666666667,
+                "team2Runs":  24,
+                "team2NrrOvers":  6
             },
     "M18":  {
                 "status":  "Scheduled",
