@@ -223,11 +223,11 @@
                 "resultText":  null
             },
     "K03":  {
-                "status":  "Postponed",
+                "status":  "Scheduled",
                 "team1Score":  null,
                 "team2Score":  null,
                 "winner":  null,
-                "resultText":  "Women's final — date and time to be finalized."
+                "resultText":  null
             },
     "K04":  {
                 "status":  "Scheduled",
