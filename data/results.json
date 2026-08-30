@@ -22,11 +22,11 @@
                 "team2NrrOvers":  4.1666666667
             },
     "M03":  {
-                "status":  "Postponed",
+                "status":  "Scheduled",
                 "team1Score":  null,
                 "team2Score":  null,
                 "winner":  null,
-                "resultText":  "Postponed — revised date and time to be announced."
+                "resultText":  null
             },
     "M04":  {
                 "status":  "Forfeited",
