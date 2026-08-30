@@ -90,11 +90,15 @@
                 "team2NrrOvers":  6
             },
     "M11":  {
-                "status":  "Scheduled",
-                "team1Score":  null,
-                "team2Score":  null,
-                "winner":  null,
-                "resultText":  null
+                "status":  "Completed",
+                "team1Score":  "41 (7 overs)",
+                "team2Score":  "44 (6.3 overs)",
+                "winner":  "Vighneshwara",
+                "resultText":  "Vighneshwara won the toss and chose to bowl. Vighneshwara completed the chase in 6.3 overs.",
+                "team1Runs":  41,
+                "team1NrrOvers":  7,
+                "team2Runs":  44,
+                "team2NrrOvers":  6.5
             },
     "M12":  {
                 "status":  "Cancelled",
