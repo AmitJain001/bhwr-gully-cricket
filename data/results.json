@@ -104,11 +104,15 @@
                 "resultText":  "Cancelled following Shripati's withdrawal from the tournament."
             },
     "M13":  {
-                "status":  "Scheduled",
-                "team1Score":  null,
-                "team2Score":  null,
-                "winner":  null,
-                "resultText":  null
+                "status":  "Completed",
+                "team1Score":  "23 (6 overs)",
+                "team2Score":  "24 (4.3 overs)",
+                "winner":  "Mouriyas",
+                "resultText":  "Bheemas won the toss and chose to bat. Mouriyas completed the chase in 4.3 overs.",
+                "team1Runs":  23,
+                "team1NrrOvers":  6,
+                "team2Runs":  24,
+                "team2NrrOvers":  4.5
             },
     "M14":  {
                 "status":  "Postponed",
