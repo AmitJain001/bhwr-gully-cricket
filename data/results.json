@@ -25,11 +25,11 @@
                 "resultText":  "Postponed — revised date and time to be announced."
             },
     "M04":  {
-                "status":  "Scheduled",
-                "team1Score":  null,
-                "team2Score":  null,
-                "winner":  null,
-                "resultText":  null
+                "status":  "Forfeited",
+                "team1Score":  "Withdrew",
+                "team2Score":  "Awarded win",
+                "winner":  "Mouriyas",
+                "resultText":  "Kapila withdrew. Mouriyas was awarded 2 points; NRR is unchanged."
             },
     "M05":  {
                 "status":  "Completed",
@@ -115,11 +115,11 @@
                 "team2NrrOvers":  4.5
             },
     "M14":  {
-                "status":  "Postponed",
+                "status":  "Forfeited",
                 "team1Score":  null,
                 "team2Score":  null,
-                "winner":  null,
-                "resultText":  "Postponed — revised date and time to be announced."
+                "winner":  "Vinayaka",
+                "resultText":  "Kapila withdrew. Vinayaka was awarded 2 points; NRR is unchanged."
             },
     "M15":  {
                 "status":  "Completed",
@@ -176,11 +176,11 @@
                 "resultText":  "Cancelled following Shripati's withdrawal from the tournament."
             },
     "M21":  {
-                "status":  "Scheduled",
-                "team1Score":  null,
-                "team2Score":  null,
-                "winner":  null,
-                "resultText":  null
+                "status":  "Forfeited",
+                "team1Score":  "Awarded win",
+                "team2Score":  "Withdrew",
+                "winner":  "Ekadanta",
+                "resultText":  "Kapila withdrew. Ekadanta was awarded 2 points; NRR is unchanged."
             },
     "M22":  {
                 "status":  "Scheduled",
