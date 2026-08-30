@@ -1,10 +1,14 @@
 {
     "M01":  {
-                "status":  "Scheduled",
-                "team1Score":  null,
-                "team2Score":  null,
-                "winner":  null,
-                "resultText":  null
+                "status":  "Completed",
+                "team1Score":  "40 (6 overs)",
+                "team2Score":  "22 all out (6 overs)",
+                "winner":  "Bala Ganapathi",
+                "resultText":  "Chaturanana won the toss and chose to bowl. Bala Ganapathi won by 18 runs.",
+                "team1Runs":  40,
+                "team1NrrOvers":  6,
+                "team2Runs":  22,
+                "team2NrrOvers":  6
             },
     "M02":  {
                 "status":  "Completed",
