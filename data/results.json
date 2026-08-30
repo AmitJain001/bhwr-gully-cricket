@@ -122,11 +122,15 @@
                 "resultText":  "Postponed — revised date and time to be announced."
             },
     "M15":  {
-                "status":  "Scheduled",
-                "team1Score":  null,
-                "team2Score":  null,
-                "winner":  null,
-                "resultText":  null
+                "status":  "Completed",
+                "team1Score":  "28 (6 overs)",
+                "team2Score":  "30 (6 overs)",
+                "winner":  "Lambodara",
+                "resultText":  "Chaturanana won the toss and chose to bowl. Lambodara won by 2 runs.",
+                "team1Runs":  28,
+                "team1NrrOvers":  6,
+                "team2Runs":  30,
+                "team2NrrOvers":  6
             },
     "M16":  {
                 "status":  "Cancelled",
