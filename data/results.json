@@ -195,11 +195,17 @@
                 "resultText":  "Kapila withdrew. Ekadanta was awarded 2 points; NRR is unchanged."
             },
     "M22":  {
-                "status":  "Scheduled",
-                "team1Score":  null,
-                "team2Score":  null,
-                "winner":  null,
-                "resultText":  null
+                "status":  "Completed",
+                "team1Score":  "14 runs in 3 overs and 3 balls",
+                "team2Score":  "13 runs — all out (6 overs)",
+                "winner":  "Mouriyas",
+                "resultText":  "Vinayaka batted first and was all out for 13 runs. Mouriyas scored 14 runs in 3 overs and 3 balls and won the match.",
+                "team1Runs":  14,
+                "team1Overs":  "3.3",
+                "team1NrrOvers":  "3.3",
+                "team2Runs":  13,
+                "team2Overs":  "6",
+                "team2NrrOvers":  "6"
             },
     "M23":  {
                 "status":  "Cancelled",
