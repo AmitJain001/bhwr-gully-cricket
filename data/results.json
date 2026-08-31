@@ -229,11 +229,11 @@
                 "resultText":  null
             },
     "K03":  {
-                "status":  "Scheduled",
-                "team1Score":  null,
-                "team2Score":  null,
-                "winner":  null,
-                "resultText":  null
+                "status":  "Completed",
+                "team1Score":  "18 runs in 4 overs and 2 balls",
+                "team2Score":  "17 runs — all out",
+                "winner":  "Vakratunda",
+                "resultText":  "Vakratunda won the toss and chose to bowl. Vighneshwara was all out for 17 runs; Vakratunda scored 18 runs in 4 overs and 2 balls to win the Women's Tournament. Manasa (Vakratunda) took 4 wickets and was Player of the Final."
             },
     "K04":  {
                 "status":  "Scheduled",
