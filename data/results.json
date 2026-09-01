@@ -22,11 +22,17 @@
                 "team2NrrOvers":  4.1666666667
             },
     "M03":  {
-                "status":  "Scheduled",
-                "team1Score":  null,
-                "team2Score":  null,
-                "winner":  null,
-                "resultText":  null
+                "status":  "Completed",
+                "team1Score":  "22 runs in 3 overs and 4 balls",
+                "team2Score":  "18 runs — all out (6 overs)",
+                "winner":  "Gajanana",
+                "resultText":  "Gajanana won the toss and chose to bowl. Lambodara was all out for 18 runs; Gajanana scored 22 runs in 3 overs and 4 balls to win the match.",
+                "team1Runs":  22,
+                "team1Overs":  "3.4",
+                "team1NrrOvers":  "3.4",
+                "team2Runs":  18,
+                "team2Overs":  "6",
+                "team2NrrOvers":  "6"
             },
     "M04":  {
                 "status":  "Forfeited",
