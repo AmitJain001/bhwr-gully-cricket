@@ -221,11 +221,11 @@
                 "resultText":  "Cancelled — Vakratunda and Vighneshwara have qualified for the women's final. No points or NRR awarded."
             },
     "K01":  {
-                "status":  "Scheduled",
-                "team1Score":  null,
-                "team2Score":  null,
-                "winner":  null,
-                "resultText":  null
+                "status":  "Completed",
+                "team1Score":  "9 runs in 1 over",
+                "team2Score":  "8 runs — all out (3 overs and 3 balls)",
+                "winner":  "Bala Ganapathi",
+                "resultText":  "Bala Ganapathi won the toss and chose to bowl. Mouriyas was all out for 8 runs in 3 overs and 3 balls; Bala Ganapathi scored 9 runs in 1 over to win the semifinal."
             },
     "K02":  {
                 "status":  "Scheduled",
