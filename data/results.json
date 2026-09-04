@@ -242,10 +242,10 @@
                 "resultText":  "Vakratunda won the toss and chose to bowl. Vighneshwara was all out for 17 runs; Vakratunda scored 18 runs in 4 overs and 2 balls to win the Women's Tournament. Manasa (Vakratunda) took 4 wickets and was Player of the Final."
             },
     "K04":  {
-                "status":  "Scheduled",
-                "team1Score":  null,
-                "team2Score":  null,
-                "winner":  null,
-                "resultText":  null
+                "status":  "Completed",
+                "team1Score":  "30 runs in 6 overs",
+                "team2Score":  "44 runs in 6 overs",
+                "winner":  "Ekadanta",
+                "resultText":  "Bala Ganapathi won the toss and chose to bowl. Ekadanta scored 44 runs in 6 overs; Bala Ganapathi scored 30 runs in 6 overs in reply. Ekadanta won the Men's Final by 14 runs. Rajesh Bhat (Ekadanta) scored 30 not out and took 1 wicket, earning Player of the Match."
             }
 }
