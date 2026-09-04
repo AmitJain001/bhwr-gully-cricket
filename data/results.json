@@ -228,11 +228,11 @@
                 "resultText":  "Bala Ganapathi won the toss and chose to bowl. Mouriyas was all out for 8 runs in 3 overs and 3 balls; Bala Ganapathi scored 9 runs in 1 over to win the semifinal."
             },
     "K02":  {
-                "status":  "Scheduled",
-                "team1Score":  null,
-                "team2Score":  null,
-                "winner":  null,
-                "resultText":  null
+                "status":  "Completed",
+                "team1Score":  "33 runs for 6 wickets (6 overs)",
+                "team2Score":  "34 runs in 5 overs and 4 balls",
+                "winner":  "Ekadanta",
+                "resultText":  "Ekadanta won the toss and chose to bowl. Gajanana scored 33 runs for 6 wickets in 6 overs; Ekadanta chased the target, scoring 34 runs in 5 overs and 4 balls to win the semifinal."
             },
     "K03":  {
                 "status":  "Completed",
